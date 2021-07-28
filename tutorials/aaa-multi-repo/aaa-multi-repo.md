@@ -5,3 +5,6 @@ time: 10
 tags: [ tutorial>beginner, products>sap-cloud-platform]
 primary_tag: [software-product-function>sap-btp-command-line-interface]
 ---
+
+## Prerequisites
+- Test
