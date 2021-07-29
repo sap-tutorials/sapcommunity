@@ -1,0 +1,11 @@
+[VALIDATE_1]
+###Rule
+single-choice
+
+###Question
+Where can you add calculated measures?
+###Match
+[ ] General
+[ ] Display
+[ ] Filters
+[VALIDATE_1]

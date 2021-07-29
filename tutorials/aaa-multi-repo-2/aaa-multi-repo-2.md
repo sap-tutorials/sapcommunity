@@ -3,8 +3,8 @@ title: My test tutorial
 description: My test tutorial description
 auto_validation: true
 time: 20
-tags: [ tutorial>beginner, topic>big-data]
-primary_tag: topic>abap-connectivity
+primary_tag: topic>abap-development
+tags: [  tutorial>beginner, topic>abap-development, products>sap-business-technology-platform, products>sap-btp\\, kyma-runtime ]
 ---
 
 ## Prerequisites
@@ -24,7 +24,7 @@ Add additional information: Background information, longer prerequisites
 
 
 
-[DONE]
+[VALIDATE_1]
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [Step 2: ](XXXXX)]
