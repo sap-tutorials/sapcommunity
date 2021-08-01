@@ -3,7 +3,7 @@ title: Upload
 description: Upload
 auto_validation: true
 time: 20
-tags: [ tutorial>beginner, products>sap-business-technology-platform]
+tags: [ tutorial>beginner, products>sap-business-technology-platform ]
 primary_tag: products>sap-business-technology-platform
 ---
 
