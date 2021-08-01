@@ -1,10 +1,10 @@
 ---
-title: Upload
-description: Upload
+title: Do this tutorial
+description: Doing this tutorial is good.
 auto_validation: true
-time: 20
-tags: [ tutorial>beginner, products>sap-business-technology-platform ]
-primary_tag: products>sap-business-technology-platform
+primary_tag: topic>abap-development
+tags: [  tutorial>beginner, topic>abap-development, products>sap-business-technology-platform, products>sap-btp\\, kyma-runtime  ]
+time: 10
 ---
 
 ## Prerequisites
