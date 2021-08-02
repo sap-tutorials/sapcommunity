@@ -4,7 +4,7 @@ title: Custom Analytical Queries Calculated Measures
 description: Create a Custom Analytical Queries with Calculated Measures.
 format: new
 primary_tag: topic>abap-development
-tags: [  tutorial>beginner, topic>abap-development, products>sap-business-technology-platform, products>sap-btp\\, kyma-runtime ]
+tags: [  tutorial>beginner, topic>abap-development, products>sap-business-technology-platform, products>sap-btp\\, kyma-runtime  ]
 time: 10
 ---
 
