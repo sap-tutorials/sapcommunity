@@ -31,7 +31,7 @@ Every service has its own available plans:
 
 3. From the available tabs, select **Pricing**. You can now see all Service Plans available (such as **Free**, **Default** / **Standard** or **Trial** service plans). As an example, see the screenshot below.
 
-!![Discovery Center](tutorial-instance-4-discovery-center.png)
+![Discovery Center](tutorial-instance-4-discovery-center.png)
 
 ---
 
