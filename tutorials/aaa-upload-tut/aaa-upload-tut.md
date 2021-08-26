@@ -3,7 +3,7 @@ title: Do this tutorial
 description: Doing this tutorial is good.
 auto_validation: true
 primary_tag: topic>abap-development
-tags: [  tutorial>beginner, topic>abap-development, products>sap-business-technology-platform, products>sap-btp\\, kyma-runtime  ]
+tags: [  tutorial>beginner, topic>abap-development, products>sap-business-technology-platform, products>sap-btp\\, kyma-runtime, tutorial>community  ]
 time: 10
 ---
 
