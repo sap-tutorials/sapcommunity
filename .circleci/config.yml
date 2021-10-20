@@ -1,14 +1,25 @@
-version: 2.1
 orbs:
-  node: circleci/node@1.1
-jobs:
-  build:
-    executor:
-      name: node/default
-      tag: '10.4'
-    steps:
-      - checkout
-      - node/with-cache:
-          steps:
-            - run: npm install
-      - run: npm run test
+  tutorial-checker-orb: saptutorials/tutorial-checker-orb@1.0.0
+version: 2.1
+notify:
+  webhooks:
+    - url: https://webhooks.gitter.im/e/15f197634234d80a32fa
+workflows:
+  version: 2
+  nightly:
+    triggers:
+    - schedule:
+        cron: "0 0 * * 0-5"
+        filters:
+          branches:
+            only:
+              - main
+    jobs:
+      - tutorial-checker-orb/build-all
+  commitly:
+    jobs:
+      - tutorial-checker-orb/build-last-commit:
+          filters:
+            branches:
+              only:
+                - main
