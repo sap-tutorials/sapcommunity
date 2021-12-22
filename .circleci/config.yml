@@ -1,5 +1,5 @@
 orbs:
-  tutorial-checker-orb: saptutorials/tutorial-checker-orb@1.0.0
+  tutorial-checker-orb: saptutorials/tutorial-checker-orb@1.1.0
 version: 2.1
 notify:
   webhooks:
@@ -16,10 +16,6 @@ workflows:
               - main
     jobs:
       - tutorial-checker-orb/build-all
-  commitly:
+  build:
     jobs:
-      - tutorial-checker-orb/build-last-commit:
-          filters:
-            branches:
-              only:
-                - main
+      - tutorials-check/build-pull-request
