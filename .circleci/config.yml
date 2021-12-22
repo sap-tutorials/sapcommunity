@@ -18,4 +18,4 @@ workflows:
       - tutorial-checker-orb/build-all
   build:
     jobs:
-      - tutorials-check/build-pull-request
+      - tutorial-checker-orb/build-pull-request
