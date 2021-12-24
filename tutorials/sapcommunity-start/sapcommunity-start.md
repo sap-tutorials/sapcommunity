@@ -13,7 +13,7 @@ primary_tag: topic>abap-connectivity
 ## Details
 ### You will learn
   - How to do something
-  - Why this technology is helpful
+  - Why this technology is helpful test
 
 Add additional information: Background information, longer prerequisites
 
