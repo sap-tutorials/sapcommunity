@@ -4,6 +4,7 @@ description: Test
 time: 20
 tags: [ tutorial>beginner, topic>abap-connectivity]
 primary_tag: topic>abap-connectivity
+auto_validation: true
 ---
 
 ## Prerequisites
