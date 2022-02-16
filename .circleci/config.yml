@@ -18,4 +18,5 @@ workflows:
       - tutorial-checker-orb/build-all
   build:
     jobs:
-      - tutorial-checker-orb/build-pull-request
+      - tutorial-checker-orb/build-pull-request:
+          env: 'NODE_ENV=stage'

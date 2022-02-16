@@ -4,6 +4,7 @@ description: Test
 time: 20
 tags: [ tutorial>beginner, topic>abap-connectivity]
 primary_tag: topic>abap-connectivity
+auto_validation: true
 ---
 
 ## Prerequisites
@@ -13,7 +14,7 @@ primary_tag: topic>abap-connectivity
 ## Details
 ### You will learn
   - How to do something
-  - Why this technology is helpful
+  - Why this technology is helpful test
 
 Add additional information: Background information, longer prerequisites
 
