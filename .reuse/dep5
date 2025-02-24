@@ -1,8 +1,0 @@
-Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: sapcommunity
-Upstream-Contact: Maksym Hornostai (maksym.hornostai@sap.com)
-Source: https://github.com/sap-tutorials/sapcommunity
-
-Files: *
-Copyright:  2022 SAP SE or an SAP affiliate company and https://github.com/sap-tutorials/sapcommunity contributors
-License: CC-BY-4.0

@@ -1,0 +1,10 @@
+version = 1
+SPDX-PackageName = "sapcommunity"
+SPDX-PackageSupplier = "Maksym Hornostai (maksym.hornostai@sap.com)"
+SPDX-PackageDownloadLocation = "https://github.com/sap-tutorials/sapcommunity"
+
+[[annotations]]
+path = "**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2022 SAP SE or an SAP affiliate company and https://github.com/sap-tutorials/sapcommunity contributors"
+SPDX-License-Identifier = "CC-BY-4.0"
